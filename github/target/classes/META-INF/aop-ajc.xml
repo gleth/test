@@ -1,0 +1,11 @@
+<aspectj>
+<aspects>
+<aspect name="com.sut.test.domain.Sample_Roo_Configurable"/>
+<aspect name="com.sut.test.domain.Sample_Roo_ToString"/>
+<aspect name="com.sut.test.web.SampleController_Roo_Controller"/>
+<aspect name="com.sut.test.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.sut.test.domain.Sample_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.sut.test.domain.Sample_Roo_Jpa_Entity"/>
+</aspects>
+</aspectj>
+
